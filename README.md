@@ -38,3 +38,8 @@ Building Contact App using Django is my exercise based on the tutorials made byM
         modified:   README.md
         modified:   apps/contact/apps.py
         modified:   config/settings.py
+
+#### 7. Create Contact model
+
+        modified:   README.md
+        modified:   apps/contact/models.py
