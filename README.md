@@ -8,3 +8,7 @@ Building Contact App using Django is my exercise based on the tutorials made byM
 
         modified:   .gitignore
         modified:   README.md
+
+#### 3. Install django
+
+        modified:   README.md
