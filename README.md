@@ -43,3 +43,9 @@ Building Contact App using Django is my exercise based on the tutorials made byM
 
         modified:   README.md
         modified:   apps/contact/models.py
+
+#### 8. Create requirements.txt file
+
+        pip freeze > requirements.txt
+        modified:   README.md
+        new file:   requirements.txt
