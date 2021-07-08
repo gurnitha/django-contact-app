@@ -1,3 +1,7 @@
+# new
+venv3932
+db.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
